@@ -303,7 +303,7 @@ aside{
 .suscribe_bottom{
 	clear: both;
 	width:100%;
-	background: #39A4DD;
+	background: #000;
 	color:#fff;
 	display: inline-block;
 	padding:60px 0px;
@@ -334,7 +334,7 @@ aside{
 .suscribe_bottom input[type="submit"]{
 	width:450px;
 	padding:10px;
-	background: #ff007b;
+	background: green;
 	color:#fff;
 	font-size: 40px;
 	border-radius: 0px 200px 200px 0px;
@@ -344,12 +344,16 @@ aside{
 
 footer{
 	width:100%;
-	background: #5b5b0d;
+
+	background: #ff8000;
+
+	background: blue;
+
 }
 
 footer p{
 	color:#fff;
-	font-size: 25px;
+	font-size: 50px;
 	padding:40px 0px;
 	text-align: center;
 }
