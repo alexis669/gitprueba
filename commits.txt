@@ -1,0 +1,23 @@
+commit 931b26d0491e42d54ee71796b984cc04082bd9ea
+Author: alessss <alesss@may.com>
+Date:   Wed Dec 23 17:56:39 2015 -0500
+
+    ver 3 footer naranja
+
+commit ff4aa62d6763bc1ccfba90162f16cd83d3e7bb0d
+Author: alessss <alesss@may.com>
+Date:   Wed Dec 23 17:55:40 2015 -0500
+
+    ver 2 footer rojo
+
+commit 57c26d482c2f8ba15851c3e58db132b715ba4edf
+Author: alessss <alesss@may.com>
+Date:   Wed Dec 23 17:54:45 2015 -0500
+
+    ver 1 footer negro
+
+commit fcff507a61c21e4a94ec5315beb15af0b1b52559
+Author: alessss <alesss@may.com>
+Date:   Wed Dec 23 17:53:31 2015 -0500
+
+    iniciando
